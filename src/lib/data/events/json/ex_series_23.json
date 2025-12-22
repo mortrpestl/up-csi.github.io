@@ -1,0 +1,13 @@
+{
+    "type": "External",
+    "name": "EX Series",
+    "description": "\ud835\uddd8\ud835\uddeb \ud835\udde6\ud835\uddf2\ud835\uddff\ud835\uddf6\ud835\uddf2\ud835\ude00 aims to equip students with new skills in the field of software engineering through a series of workshops, as well as give students a head start on what to expect this coming internship season. ",
+    "sessions": [
+        "[External|2023-05-18|2023-05-18|]",
+        "[External|2023-05-19|2023-05-19|]",
+        "[External|2023-05-20|2023-05-20|]",
+        "[External|2023-05-21|2023-05-21|]",
+        "[External|2023-05-22|2023-05-22|]"
+    ],
+    "slug": "ex_series_23"
+}

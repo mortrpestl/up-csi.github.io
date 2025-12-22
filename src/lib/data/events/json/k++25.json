@@ -1,0 +1,9 @@
+{
+    "type": "External",
+    "name": "K++: Karaoke Night",
+    "description": "An unforgettable night of music, laughter, and karaoke fun, here at UP CSI.",
+    "sessions": [
+        "[External|2025-05-09|2025-05-09|]"
+    ],
+    "slug": "k++25"
+}

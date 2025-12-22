@@ -1,0 +1,12 @@
+{
+    "type": "External",
+    "name": "Innov School: A Hackathon on Blockchain",
+    "description": "Wanna crack the secrets to the tech behind blockchain but don't know where to start?\nUP CSI, together with NEM Philippines, welcomes everyone to this year's Innov School: A Hackathon on Blockchain, a university-wide event where we will be having a set of lectures, workshops and our very own hackathon, all centered around blockchain.",
+    "sessions": [
+        "[External|2019-02-23|2019-02-23|]",
+        "[External|2019-02-26|2019-02-26|]",
+        "[External|2019-02-28|2019-02-28|]",
+        "[External|2019-03-02|2019-03-02|]"
+    ],
+    "slug": "innov_school_19"
+}
