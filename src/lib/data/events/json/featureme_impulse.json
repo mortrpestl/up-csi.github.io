@@ -1,5 +1,6 @@
 {
     "type": "External",
+    "tag": "Other",
     "name": "FeatureME",
     "description": "A project in aims to feature projects of DCS in social media posts",
     "sessions": [

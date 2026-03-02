@@ -6,6 +6,7 @@ import type { State } from '$lib/types/state';
 export const TAGS = [
     'EX Series',
     'Innov School/InnovCamp',
+    'Hackathon',
     'App Process',
     'Teambuilding',
     'Partnership',
