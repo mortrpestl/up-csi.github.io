@@ -3,8 +3,6 @@
     "tag": "Workshop",
     "name": "GeeCS 9.0 Hackathon Training",
     "description": "Is it your first time joining  a hackathon? Do you want to brush up on your skills? \n\nThis event is brought to you by UP CSI for the Department of Computer Science's GeeCS 9.0, a week-long celebration of CS Network Week 2016.",
-    "sessions": [
-        "External|2016-11-10|2016-11-10|"
-    ],
+    "sessions": ["External|2016-11-10|2016-11-10|"],
     "slug": "geecs_9.0"
 }

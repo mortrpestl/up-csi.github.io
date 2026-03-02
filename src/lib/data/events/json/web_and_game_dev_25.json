@@ -3,9 +3,6 @@
     "tag": "Workshop",
     "name": "Web & Game Dev 101",
     "description": "Hi, Trainer! \ud83d\udd34\u26aa\ufe0f The UP Center for Student Innovations, co-presented by DevelUP Diliman, proudly introduces Web & Game Dev 101! \u26a1\ufe0f\nJoin us for an exciting two-day event packed with workshops and hands-on activities in both Website Development and Game Development. \ud83d\udca5Whether you're just starting your journey or looking to level up your skills, this is the perfect opportunity to catch \u2018em all in the world of coding and creativity!",
-    "sessions": [
-        "[External|2024-11-21|2024-11-21|]",
-        "[External|2024-11-22|2024-11-22|]"
-    ],
+    "sessions": ["[External|2024-11-21|2024-11-21|]", "[External|2024-11-22|2024-11-22|]"],
     "slug": "web_and_game_dev_25"
 }

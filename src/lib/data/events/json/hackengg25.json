@@ -3,9 +3,6 @@
     "tag": "Hackathon",
     "name": "HackEng'g 2025",
     "description": "From late-night brainstorming sessions to spellbinding pitches, \ud835\udc07\ud835\udc1a\ud835\udc1c\ud835\udc24\ud835\udc04\ud835\udc27\ud835\udc20\ud835\udc20 conjured a whirlwind of creativity, collaboration, and coding magic right here at UP DCS. In collaboration with UP CURSOR and CS Week SteerComm.",
-    "sessions": [
-        "[External|2025-05-07|2025-05-07|]",
-        "[External|2025-05-08|2025-05-08|]"
-    ],
+    "sessions": ["[External|2025-05-07|2025-05-07|]", "[External|2025-05-08|2025-05-08|]"],
     "slug": "hackengg25"
 }

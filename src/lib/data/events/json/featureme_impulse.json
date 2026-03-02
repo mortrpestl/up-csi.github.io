@@ -3,8 +3,6 @@
     "tag": "Other",
     "name": "FeatureME",
     "description": "A project in aims to feature projects of DCS in social media posts",
-    "sessions": [
-        "[External|2016-01-01|2016-12-31|]"
-    ],
+    "sessions": ["[External|2016-01-01|2016-12-31|]"],
     "slug": "featureme_impulse"
 }
